@@ -83,7 +83,7 @@ while True:
         print("Incorrect...")
 
     #Q8
-    answer = input("What is the only english word that truely has no rhyme? ")
+    answer = input("What is the only english word that truly has no rhyme? ")
     if answer.lower() == "orange":
         print("Correct!")
         score += 1
